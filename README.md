@@ -11,9 +11,9 @@ To reproduce the side-channel attack used as dataset validation follow these ste
 
 1. Clone the repository with all submodules.
 
-  ```
-  git clone https://github.com/hardware-fab/chameleon-dataset.git --recursive
-  ```
+   ```
+   git clone https://github.com/hardware-fab/chameleon-dataset.git --recursive
+   ```
 
 2. Download Chameleon from [Hugging Face](https://huggingface.co/datasets/hardware-fab/Chameleon).
 3. Build the training, validation, and testing subsets using the `create_subsets.py` python script.
