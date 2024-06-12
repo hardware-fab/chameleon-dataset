@@ -1,3 +1,3 @@
 [submodule "Reinforcement-Learning-for-SCA"]
 	path = Reinforcement-Learning-for-SCA
-	url = https://github.com/hardware-fab/Reinforcement-Learning-for-SCA
+	url = git@github.com:hardware-fab/Reinforcement-Learning-for-SCA.git
